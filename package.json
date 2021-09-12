@@ -1,7 +1,7 @@
 {
-  "name": "svelte-component",
+  "name": "svelte-richselect",
   "author": "arthurmarinis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Svelte rich select using tailwind",
   "svelte": "src/RichSelect.svelte",
   "module": "dist/rich-select.mjs",
