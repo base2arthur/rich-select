@@ -2,15 +2,15 @@
   "name": "svelte-component",
   "author": "arthurmarinis",
   "version": "1.0.0",
-  "description": "A Svelte component template.",
-  "svelte": "src/Index.svelte",
-  "module": "dist/component.mjs",
-  "main": "dist/component.js",
+  "description": "A Svelte rich select using tailwind",
+  "svelte": "src/RichSelect.svelte",
+  "module": "dist/rich-select.mjs",
+  "main": "dist/rich-select.js",
   "keywords": [
     "svelte",
-    "component",
-    "copy me",
-    "svelte-component"
+    "richselect",
+    "select",
+    "svelte-richselect"
   ],
   "dependencies": {},
   "devDependencies": {
@@ -25,8 +25,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/base2arthur/svelte-component.git"
+    "url": "git+https://github.com/base2arthur/svelte-richselect.git"
   },
-  "homepage": "https://github.com/base2arthur/svelte-component#readme",
+  "homepage": "https://github.com/base2arthur/svelte-richselect#readme",
   "license": "MIT"
 }

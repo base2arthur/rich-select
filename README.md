@@ -2,18 +2,15 @@
 
 # Svelte Component
 
-`A Svelte component template.`
+`A rich select copied from https://www.vue-tailwind.com/docs/rich-select/.`
 
 ## Install
 
-```shell
-$ Copy. Don't clone
-```
-
+npm install https://github.com/base2arthur/rich-select.git
  
 
 ## Usage
-See src/Index.js
+<RichSelect bind:list placeholder="Select a Something..." bind:value={selectedValue} hideValue={true||false} on:change={changed_}/>
  
 ## License
 
